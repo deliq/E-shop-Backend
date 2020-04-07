@@ -1,0 +1,63 @@
+.uvod_tlacitka{
+    margin-left: 300px;
+    padding-bottom:8px;
+}
+.home_txt{
+    
+}
+
+.home {
+    width: 40px;
+    height: 40px;
+    border: 1px ridge black;
+    margin: 10px;
+}
+
+.open_menu {
+    margin-left: 15px;
+    margin-top: 15px;
+    border: inset #ff0000; 
+    width: 50%;
+    border-radius: 12px;
+}
+.cena_tovaru{
+    font-size:30px;
+    margin-top:30px;
+    margin-left:20px;
+
+}
+.info_text{
+    margin-top: 10px;
+    text-align:start;
+}
+.tlacitko_nahrat {
+    margin-left: 150px;
+    margin-top: 50px;
+    width:90px;
+}
+
+input {
+    width: 40%;
+    height:35px;
+    padding-left:20px;
+}
+
+.id_vymazat{
+    width:80px;
+}
+.id_vymazat_txt {
+    color: #ff1a1a
+}
+.delete_button {
+    width: 90px;
+    margin-left: 45px;
+    margin-top:8px;
+}
+.vymazat_div{
+    margin-left:40%;
+    
+
+}
+textarea {
+    text-align:start;
+}
